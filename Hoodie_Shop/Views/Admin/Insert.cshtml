@@ -1,0 +1,105 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Insert</title>
+    <style>
+        .error {
+            color: red
+        }
+    </style>
+</head>
+<body>
+    @model ProductViewModels
+    <div class="container col-4 offset-4 ">
+        <form id="insertFrm">
+            <div class="form-group">
+                <label>name</label>
+                <input class="form-control" asp-for="name" />
+            </div>
+            <div class="form-group">
+                <label>price</label>
+                <input class="form-control" asp-for="price" />
+            </div>
+            <div class="form-group">
+                <label>color</label>
+                <input class="form-control" asp-for="color" />
+            </div>
+            <div class="custom-file">
+                <input class="custom-file-input" asp-for="images" /> <label>انتخاب عکس</label>
+            </div>
+            <div class="custom-file">
+                <input class="custom-file-input" asp-for="images" /> <label>انتخاب عکس</label>
+            </div>
+            <div class="custom-file">
+                <input class="custom-file-input" asp-for="images" /> <label>انتخاب عکس</label>
+            </div>
+            <button id="btnAdd" type="submit" class="btn btn-primary">ثبت</button>
+        </form>
+    </div>
+</body>
+<script>
+    $(function () {
+
+        $(btnAdd).click(function () {
+            $(insertFrm).validate({
+                rules:
+                {
+                    name: "required",
+                    price: "required",
+                    color: "required",
+                    images: "required"
+                },
+                messages:
+                {
+                    name: "enter a name",
+                    price: "enter a price",
+                    color: "enter a color",
+                    images: "choose an image"
+                },
+                submitHandler: () =>
+                {
+                    let Name = $('#name').val()
+                    let Price = $('#price').val()
+                    let Color = $('#color').val()
+                    let Imgs = $('#images').get(0).files
+                    let form = new FormData()
+                    form.append('name', Name)
+                    form.append('price', Price)
+                    form.append('color', Color)
+                    for (var i = 0; i < Imgs.length; i++) {
+                        form.append('images', Imgs[i])
+                    }
+                    $.ajax({
+                        url: '/Admin/InsertConfirm',
+                        type: 'post',
+                        data: form,
+                        datatype: 'json',
+                        enctype: 'multipart/form-data',
+                        contentType: false,
+                        processData: false,
+                        success: function (data) {
+                            alert(data)
+                            $(name).val(null)
+                            $(price).val(null)
+                            $(color).val(null)
+                            $(images).val(null)
+                        }
+
+                    })
+                }
+
+            })
+
+        })
+    })
+</script>
+</html>

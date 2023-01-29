@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+@model RegisterViewModels
+<div class="customer-login-register">
+    <h3>ثبت نام</h3>
+    <div class="login-Register-info">
+        <form asp-action="RegisterConfirm" asp-controller="Account">
+            <p class="coupon-input form-row-first">
+                <label>نام کاربری یا ایمیل </label>
+                <input type="text" asp-for="userName">
+            </p>
+            <p class="coupon-input form-row-first">
+                <label> نام  </label>
+                <input type="text" asp-for="firstName">
+            </p>
+            <p class="coupon-input form-row-first">
+                <label>نام خانوادگی</label>
+                <input type="text" asp-for="lastName">
+            </p>
+            <p class="coupon-input form-row-last">
+                <label>رمز عبور</label>
+                <input type="password" asp-for="passWord">
+            </p>
+            <div class="clear"></div>
+            <p>
+                <input asp-for="isAnAdmin" type="checkbox" /><label>Register As Admin</label>
+            </p>
+            <button id="AddBtn" class="button-login" type="submit">ثبت نام</button>
+        </form>
+    </div>
+</div>
+@*<script>
+    //:44389/Account/~/lay…img/product/1.jpg:1
+    $(function () {
+        $(AddBtn).click(function () {
+            $(AddUserFrm).validate({
+                rules:
+                {
+                    userName: "required",
+                    firstName: "required",
+                    lastName: "required",
+                    passWord: "required"
+                },
+                messages:
+                {
+                    userName: "نام کاربری را وارد کنید",
+                    firstName: "نام را وارد کنید",
+                    lastName: "نام خانوادگی را وارد کنید",
+                    passWord: "رمز عبور را وارد کنید"
+                },
+                submitHandler: () => {
+                    let userName = $(userName).val()
+                    let firstName = $(firstName).val()
+                    let lastName = $(lastName).val()
+                    let passWord = $(passWord).val()
+                    let isAnAdmin = $(isAnAdmin).val()
+                    let form = new FormData()
+                    form.append('userName', userName)
+                    form.append('userName', firstName)
+                    form.append('userName', lastName)
+                    form.append('userName', passWord)
+                    form.append('isAnAdmin', isAnAdmin)
+                    $.ajax(
+                        {
+                            url: '/Account/RegisterConfirm',
+                            type: 'post',
+                            data: form,
+                            enctype: 'multipart/form-data',
+                            contentType: false,
+                            proccesData: false,
+                            datatype: 'json',
+                            success: function (data) {
+                                alert("success")
+                                alert(data)
+                                $(userName).val(null)
+                                $(firstName).val(null)
+                                $(lastName).val(null)
+                                $(passWord).val(null)
+                                $(isAnAdmin).attr('checked', false)
+                            }
+                        })
+                }
+            })
+        })
+    })
+</script>*@

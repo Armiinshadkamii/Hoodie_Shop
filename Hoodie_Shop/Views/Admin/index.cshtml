@@ -1,0 +1,283 @@
+﻿@using First_Website.Areas.Identity.Data;
+@{
+    ViewData["Title"] = "index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <!--card area start-->
+        <div class="container">
+            <div class="row">
+                <div class=" card col-sm-3 m-4">
+                    <div class="card-header bg-primary">
+                        <h1 id="h1UsersCount" class="text-center text-white"></h1>
+                    </div>
+                    <div class="card-body bg-white">
+                        <h5 class="text-center">users</h5>
+                    </div>
+                </div>
+                <div class="card col-sm-3 m-4">
+                    <div class="card-header bg-primary">
+                        <h1 id="h1ProductsCount" class="text-center text-white"></h1>
+                    </div>
+                    <div class="card-body bg-white">
+                        <h5 class="text-center">products</h5>
+                    </div>
+                </div>
+                <div class="card col-sm-3 m-4">
+                    <div class="card-header bg-prima">
+                        <h1 id="h1OrdersCount" class="text-center text-white"></h1>
+                    </div>
+                    <div class="card-body bg-white">
+                        <h5 class="text-center">Orders</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--card area end-->
+
+    </div>
+    <div class="container-fluid col">
+        <div class="input-group">
+            <h2 class="form-control text-white bg-primary text-center">Users</h2>
+        </div>
+        <!-- insert user form start-->
+        @model RegisterViewModels
+        <div class="customer-login-register">
+            <h3 class="text-center mt-20">ثبت نام</h3>
+            <div class="login-Register-info">
+                <form asp-action="RegisterConfirm" asp-controller="Account">
+                    <p class="coupon-input form-row-first">
+                        <label>نام کاربری یا ایمیل </label>
+                        <input asp-for="userName" type="text">
+                        <span asp-validation-for="userName"></span>
+                    </p>
+                    <p class="coupon-input form-row-first">
+                        <label> نام  </label>
+                        <input asp-for="firstName" type="text">
+                        <span asp-validation-for="firstName"></span>
+                    </p>
+                    <p class="coupon-input form-row-first">
+                        <label>نام خانوادگی</label>
+                        <input asp-for="lastName" type="text">
+                        <span asp-validation-for="lastName"></span>
+                    </p>
+                    <p class="coupon-input form-row-last">
+                        <label>رمز عبور</label>
+                        <input type="password" asp-for="passWord">
+                        <span asp-validation-for="passWord"></span>
+                    </p>
+                    <div class="clear"></div>
+                    <p>
+                        <input type="checkbox" asp-for="isAnAdmin" /><label>Register As Admin</label>
+                    </p>
+                    <button id="AddBtn" class="button-login" type="submit">ثبت نام</button>
+                </form>
+            </div>
+        </div>
+        <!-- insert user form end-->
+        <!--Delete user start-->
+        <div class="customer-login-register">
+            <h3 class="text-center"> حذف</h3>
+            <div class="login-Register-info">
+                <form asp-controller="Account" asp-action="DeleteUsers">
+                    <p class="coupon-input form-row-first">
+                        <label>آیدی</label>
+                        <input name="id" asp-for="DeleteId" type="text">
+                        <span asp-validation-for="DeleteId"></span>
+                    </p>
+                    <div class="clear"></div>
+                    <button id="delBtn" class="button-login" type="submit"> حذف</button>
+                </form>
+            </div>
+        </div>
+        <!--Delete user end-->
+        <div class="container">
+            <h3 class="text-center">جدول کاربر ها</h3>
+            <table id="tblUser" class="table table-bordered mt-20">
+                <tr>
+                    <th>آیدی</th>
+                    <th>نام کاربری</th>
+                    <th>نام</th>
+                    <th>نام خانوادگی</th>
+                </tr>
+                @foreach (var item in ViewData["usersList"] as List<ApplicationUser>)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.UserName</td>
+                        <td>@item.firstName</td>
+                        <td>@item.lastName</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+    <div class="container-fluid col">
+        <div class="input-group">
+            <h2 class="form-control text-white bg-primary text-center">Products</h2>
+        </div>
+    </div>
+    <!--insert products start-->
+    <div class="customer-login-register">
+        <h3 class="text-center mt-20">افزودن کالا</h3>
+        <div class="login-Register-info">
+            <form id="insertform" asp-controller="Products" enctype="multipart/form-data" method="post" asp-action="InsertConfirm">
+                <p class="coupon-input form-row-first">
+                    <label>نام  </label>
+                    <input name="name" asp-for="name" id="name"  type="text">
+                    <span asp-validation-for="name"></span>
+                </p>
+                <p class="coupon-input form-row-first">
+                    <label> قیمت  </label>
+                    <input id="price" asp-for="price" name="price" type="text">
+                    <span asp-validation-for="price"></span>
+                </p>
+                <p class="coupon-input form-row-first">
+                    <label>رنگ</label>
+                    <input id="color" name="color" asp-for="color" type="text">
+                    <span asp-validation-for="color"></span>
+                </p>
+                <p class="coupon-input form-row-first">
+                    <label>تعداد</label>
+                    <input id="count" name="count" asp-for="count" type="text">
+                    <span asp-validation-for="count"></span>
+                </p> 
+                <div class="custom-file">
+                    <input type="file" name="titleImg" class="custom-file-input" asp-for="titleImage" /><label class="custom-file-label">انتخاب عکس اولیه</label>
+                    <span asp-validation-for="titleImage"></span>
+                </div>
+                <div class="custom-file">
+                    <input name="listOfImages" asp-for="images" class="custom-file-input" type="file"><label class="custom-file-label">انتخاب عکس</label>
+                    <span asp-validation-for="images"></span>
+                </div>
+                <div class="custom-file">
+                    <input name="listOfImages" asp-for="images" class="custom-file-input" type="file"><label class="custom-file-label">انتخاب عکس</label>
+                    <span asp-validation-for="images"></span>
+                </div>
+                <div class="custom-file">
+                    <input name="listOfImages" asp-for="images" class="custom-file-input" type="file"><label class="custom-file-label">انتخاب عکس</label>
+                    <span asp-validation-for="images"></span>
+                </div>
+                <button id="AddProduct" class="button-login" type="submit"> افزودن</button>
+            </form>
+        </div>
+    </div>
+    <!--insert products end-->
+    <!--Delete product start-->
+    <div class="customer-login-register">
+        <h3 class="text-center"> حذف</h3>
+        <div class="login-Register-info">
+            <form asp-controller="Products" asp-action="DeleteProducts">
+                <p class="coupon-input form-row-first">
+                    <label>آیدی</label>
+                    <input name="id" asp-for="DeleteProductId" type="text">
+                    <span asp-validation-for="DeleteProductId"></span>
+                </p>
+                <div class="clear"></div>
+                <button id="delBtn" class="button-login" type="submit"> حذف</button>
+            </form>
+        </div>
+    </div>
+    <!--Delete product end-->
+    <div class="container">
+        <h3 class="text-center">جدول موجودی ها</h3>
+        <table id="tblProduct" class="table table-bordered mt-20">
+            <tr>
+                <th>آیدی</th>
+                <th>نام</th>
+                <th>تعداد</th>
+                <th>رنگ</th>
+                <th>قیمت</th>
+            </tr>
+            @foreach (var product in ViewData["products"] as List<Hoodie>)
+            {
+                <tr>
+                    <td>@product.id</td>
+                    <td>@product.name</td>
+                    <td>@product.count</td>
+                    <td>@product.color</td>
+                    <td>@product.price</td>
+                </tr>
+            }
+        </table>
+    </div>
+      <div class="container">
+        <h3 class="text-center">جدول ناموجودی ها</h3>
+        <table id="tblProduct" class="table table-bordered mt-20">
+            <tr>
+                <th>آیدی</th>
+                <th>نام</th>
+                <th>تعداد</th>
+                <th>رنگ</th>
+                <th>قیمت</th>
+            </tr>
+            @foreach (var product in ViewData["notAvailable"] as List<Hoodie>)
+            {
+                <tr>
+                    <td>@product.id</td>
+                    <td>@product.name</td>
+                    <td>@product.count</td>
+                    <td>@product.color</td>
+                    <td>@product.price</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <!--Admins table start-->
+        <div class="container">
+            <div class="input-group">
+              <h3 class="form-control bg-primary text-white text-center">Admins</h3>
+            </div>
+            <div class="container">
+              <table> </table>
+            </div>
+        </div>
+    <!--Admins table end-->
+    <!--Delete Admin start-->
+    <div class="customer-login-register">
+        <h3 class="text-center"> حذف</h3>
+        <div class="login-Register-info">
+            <form asp-controller="Account" asp-action="DeleteAdmins">
+                <p class="coupon-input form-row-first">
+                    <label>آیدی</label>
+                    <input name="id" asp-for="DeleteProductId" type="text">
+                    <span asp-validation-for="DeleteProductId"></span>
+                </p>
+                <div class="clear"></div>
+                <button id="delBtn" class="button-login" type="submit"> حذف</button>
+            </form>
+        </div>
+    </div>
+    <!--Delete Admin end-->
+</body>
+<script>
+    $(function () {
+
+        $.get('Account/UsersCount', function (response) {
+            $(h1UsersCount).append(response)
+        })
+        $.get('Products/ProductsCount', function (response) {
+            $(h1ProductsCount).append(response)
+        })
+    })
+</script>
+
+
+

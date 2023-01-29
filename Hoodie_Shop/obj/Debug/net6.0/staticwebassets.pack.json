@@ -1,0 +1,1221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hoodie_Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hoodie_Shop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\animate.css",
+      "PackagePath": "staticwebassets\\layout\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\aviny.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\aviny.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\dastnevis.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\dastnevis.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\droid-naskh.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\droid-naskh.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\dubai.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\dubai.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\gandom.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\gandom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\helvetica-neue.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\helvetica-neue.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\iran-sans.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\iran-sans.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\iran-yekan.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\iran-yekan.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\lalezar.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\lalezar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\myriad.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\myriad.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\neirizi.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\neirizi.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\palatino-sans.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\palatino-sans.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\sahel.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\sahel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\shabnam.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\shabnam.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\vazir.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\vazir.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\font\\yekan.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font\\yekan.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\layout\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\mainmenu.css",
+      "PackagePath": "staticwebassets\\layout\\css\\mainmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\layout\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\layout\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\layout\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\aviny-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\aviny-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\aviny-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\aviny-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\aviny-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\aviny-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\aviny-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\aviny-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dastnevis-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dastnevis-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dastnevis-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dastnevis-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dastnevis-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dastnevis-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dastnevis-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dastnevis-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\droid-naskh-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\droid-naskh-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\droid-naskh-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\droid-naskh-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\droid-naskh-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\droid-naskh-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\droid-naskh-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\droid-naskh-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dubai-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dubai-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dubai-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dubai-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dubai-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dubai-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\dubai-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\dubai-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\gandom-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\gandom-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\gandom-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\gandom-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\gandom-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\gandom-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\gandom-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\gandom-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\helvetica-neue-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\helvetica-neue-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\helvetica-neue-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\helvetica-neue-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\helvetica-neue-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\helvetica-neue-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\helvetica-neue-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\helvetica-neue-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-sans-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-sans-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\iran-yekan-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\iran-yekan-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\lalezar-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\lalezar-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\lalezar-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\lalezar-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\lalezar-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\lalezar-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\lalezar-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\lalezar-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\myriad-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\myriad-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\neirizi-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\neirizi-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\neirizi-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\neirizi-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\neirizi-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\neirizi-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\neirizi-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\neirizi-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\palatino-sans-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\palatino-sans-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\palatino-sans-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\palatino-sans-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\palatino-sans-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\palatino-sans-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\palatino-sans-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\palatino-sans-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\sahel-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\sahel-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\sahel-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\sahel-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\sahel-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\sahel-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\sahel-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\sahel-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\shabnam-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\shabnam-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-700.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-700.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-700.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\vazir-700.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\vazir-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\yekan-400.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\yekan-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\yekan-400.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\yekan-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\yekan-400.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\yekan-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\fonts\\yekan-400.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\yekan-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\about\\about1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-01-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-01-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-01-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-01-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-01-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-01-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-01-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-01-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-01-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-01-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-03-7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-03-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-04-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-04-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-04-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-04-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-04-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-04-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\home-04-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\home-04-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\banner\\img-static-menu.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\img-static-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\blog-bg-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\blog-bg-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\s-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\s-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\blog\\s-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\s-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\brand\\1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\brand\\2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\brand\\3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\brand\\4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\brand\\5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\cart\\1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\cart\\2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\cart\\3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\layout\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\4.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\5.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\6.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\7.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\8.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\fcategory-img\\9.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fcategory-img\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\admin.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\author.png",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\de-de.png",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\de-de.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\en-gb.png",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\en-gb.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\payment.png",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\icon\\pp-acceptance-small.png",
+      "PackagePath": "staticwebassets\\layout\\img\\icon\\pp-acceptance-small.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\logo\\User_Flat.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo\\User_Flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\logo\\logo-2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\logo\\logo-3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\logo\\logo-4.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\0B434234-7E4E-43E3-9167-03BEDC549F75-150x150.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\0B434234-7E4E-43E3-9167-03BEDC549F75-150x150.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\420FECE4-225A-48CE-A195-5E31BD1B4427-150x150.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\420FECE4-225A-48CE-A195-5E31BD1B4427-150x150.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\4D435DCD-22B4-406D-8CCB-FB3611CA9392-150x150.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\4D435DCD-22B4-406D-8CCB-FB3611CA9392-150x150.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\8737D0D6-677A-4FE4-916F-BC36427E0BE7-1536x1536.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\8737D0D6-677A-4FE4-916F-BC36427E0BE7-1536x1536.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\A48317AF-38E4-4839-8481-D728DD09CE09-2048x2048.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\A48317AF-38E4-4839-8481-D728DD09CE09-2048x2048.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\CDD5D080-E5B4-443F-A300-86FE7751E27F-2048x2048.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\CDD5D080-E5B4-443F-A300-86FE7751E27F-2048x2048.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\DCB3B924-004D-4432-9948-BC026ADE85D4-150x150.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\DCB3B924-004D-4432-9948-BC026ADE85D4-150x150.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\E7A631BC-0C1C-49B5-B376-51ACD85CB312-1536x1536.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\E7A631BC-0C1C-49B5-B376-51ACD85CB312-1536x1536.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\E8089C5A-A347-4CCF-9EDD-EA8FA68FC4BC-150x150.jpeg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\E8089C5A-A347-4CCF-9EDD-EA8FA68FC4BC-150x150.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\myImg\\main.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\myImg\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\13.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\14.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\15.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\16.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\17.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\18.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\19.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\20.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\21.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\22.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\23.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\24.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\25.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\26.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\27.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\28.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\29.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\larg-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\larg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\larg-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\larg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\larg-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\larg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\larg-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\larg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\product\\larg-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\larg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-1-01.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-1-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-1-02.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-1-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-2-01.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-2-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-2-02.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-2-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-3-01.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-3-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-3-02.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-3-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-4-01.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-4-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\slider\\home-4-02.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\slider\\home-4-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\small-product\\1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\small-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\small-product\\2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\small-product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\ajax-email.js",
+      "PackagePath": "staticwebassets\\layout\\js\\ajax-email.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\jquery.mainmenu.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.mainmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\layout\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\layout\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\layout\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mobin Rayan\\source\\repos\\Hoodie_Shop\\Hoodie_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hoodie_Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hoodie_Shop.props",
+      "PackagePath": "build\\Hoodie_Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hoodie_Shop.props",
+      "PackagePath": "buildMultiTargeting\\Hoodie_Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hoodie_Shop.props",
+      "PackagePath": "buildTransitive\\Hoodie_Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

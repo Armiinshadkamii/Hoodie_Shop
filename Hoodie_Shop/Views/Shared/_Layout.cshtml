@@ -1,0 +1,318 @@
+﻿
+<!DOCTYPE html>
+<html class="no-js" lang="fa">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>قالب فروشگاهی Palora</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" type="image/png" href="~/layout/img/favicon.png">
+    <!-- all CSS hear -->
+    <link rel="stylesheet" href="~/layout/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/layout/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/layout/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/layout/css/animate.css">
+    <link rel="stylesheet" href="~/layout/css/nice-select.css">
+    <link rel="stylesheet" href="~/layout/css/jquery-ui.css">
+    <link rel="stylesheet" href="~/layout/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/layout/css/mainmenu.css">
+    <link rel="stylesheet" href="~/layout/css/style.css">
+    <link rel="stylesheet" href="~/layout/css/responsive.css">
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/layout/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+    <!-- Add your application content here -->
+
+    <div class="wrapper">
+        <header>
+            <!-- header-area start -->
+            <div class="header-area bg-blue">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-md-6">
+                            <!-- top-search-area start -->
+                            <div class="top-search-area">
+                                <div class="search-categories">
+                                    <form action="#">
+                                        <div class="search-form-input">
+                                            <select id="select" name="select" class="nice-select">
+                                                <option value="">انتخاب رنگ</option>
+                                                <option value="12">مشکی</option>
+                                                <option value="22">سفید</option>
+                                                <option value="26">آبی</option>
+                                                <option value="26">نارنجی</option>
+                                                <option value="26">قرمز</option>
+                                            </select>
+                                            <input type="text" placeholder="جستجوی محصول ...">
+                                            <button class="top-search-btn" type="submit"><i class="ion-ios-search-strong"></i></button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <!-- top-search-area end -->
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <!-- header-cart-box start -->
+                            <div class="header-cart-box">
+                                <!-- top-shopoing-cart start -->
+                                <div id="top-shopoing-cart" class="btn-group">
+                                    <button class="btn-link shopping-cart dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="ion-ios-cart"></i>
+                                        <span class="top-cart-total">
+                                            <span id="CartNumber" class="item-text-number"></span>
+                                            <span class="cart-text-items">سبد خرید</span>
+                                        </span>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                       <table id="cartTable" class="table table-bordered"></table>
+                                    </div>
+                                </div>
+                                <!-- top-shopoing-cart end -->
+                            </div>
+                            <!-- header-cart-box end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- header-area end -->
+            <!-- main-menu-area start -->
+            <div class="main-menu-area sticky-header bg-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-9">
+                            <div class="main-menu d-none d-lg-block">
+                                <nav>
+                                    <ul>
+                                        <li>
+                                            <a asp-action="Index" asp-controller="Home"> صفحه اصلی </a>
+
+                                        </li>
+                                        <li>
+                                            <a href="shop.html">فروشگاه</a>
+                                            <ul class="mega-menu">
+                                                <li>
+                                                    <a href="#">لباس</a>
+                                                    <ul>
+                                                        <li><a href="my-account.html">هودی</a></li>
+                                                        <li><a href="frequently-question.html">بامبر جکت</a></li>
+                                                        <li><a href="login-register.html">کت جین</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="#">ارسالی ها</a>
+                                                    <ul>
+                                                        <li><a href="blog-right.html">هودی</a></li>
+                                                        <li><a href="blog.html">بامبر جکت</a></li>
+                                                        <li><a href="blog-fullwidth.html">کت جین</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="blog.html">مورد علاقه ها</a></li>
+                                        <li><a href="about.html">درباره ما</a></li>
+                                        <li><a href="contact.html">تماس با ما</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="top-box-lang text-right">
+                                <ul>
+                                    <li class="currency">
+                                        <div class="btn-group">
+                                            <span class="wd-tools-text" title="حساب کاربری من">
+                                                @inject UserManager<ApplicationUser> userManager
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    ApplicationUser user = await userManager.FindByNameAsync(User.Identity.Name);
+                                                    @($"{user.firstName} {user.lastName}")
+                                                    <input id="identityName" hidden="hidden" value="@User.Identity.Name" />
+                                                }
+                                                else
+                                                {
+                                                    @("کاربر مهمان")
+                                                }
+                                                @*  ورود / ثبت نام*@
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li class="language">
+                                        <div class="btn-group">
+                                            @if (User.Identity.IsAuthenticated)
+                                            {
+                                                <button class="btn-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    <img src="~/layout/img/icon/en-gb.png" alt=""> خروج <i class="fa fa-angle-down"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+                                                    <ul>
+                                                        <li><a asp-action="Logout" asp-controller="Account">خروج</a></li>
+                                                    </ul>
+                                                </div>
+                                            }
+                                            else
+                                            {
+                                                <button class="btn-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    <img src="~/layout/img/icon/en-gb.png" alt=""> ثبت نام <i class="fa fa-angle-down"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+                                                    <ul>
+                                                        <li><a asp-action="Register" asp-controller="Account"> ثبت نام</a></li>
+                                                        <li><a asp-action="Login" asp-controller="Account"> ورود</a></li>
+                                                    </ul>
+                                                </div>
+                                            }
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row d-lg-none">
+                        <div class="col-lg-12">
+                            <!-- Mobile Menu Area Start -->
+                            <div class="mobile-menu-area d-block d-lg-none">
+                                <div class="mobile-menu">
+                                    <nav id="mobile-menu-active">
+                                        <ul>
+                                            <li>
+                                                <a href="index.html">خانه</a>
+                                                <ul>
+                                                    <li><a href="index.html">صفحه خانه 1</a></li>
+                                                    <li><a href="index-2.html">صفحه خانه 2</a></li>
+                                                    <li><a href="index-3.html">صفحه خانه 3</a></li>
+                                                    <li><a href="index-4.html">صفحه خانه 4</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="shop.html">صفحات</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="#">ستون یک</a>
+                                                        <ul>
+                                                            <li><a href="my-account.html">حساب کاربری</a></li>
+                                                            <li><a href="frequently-question.html">سوالات متداول</a></li>
+                                                            <li><a href="login-register.html">ورود و ثبت نام</a></li>
+                                                            <li><a href="error404.html">خطای 404</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">ستون دو</a>
+                                                        <ul>
+                                                            <li><a href="blog-right.html">بلاگ با نواری کناری راست</a></li>
+                                                            <li><a href="blog.html">بلاگ با نوار کناری چپ</a></li>
+                                                            <li><a href="blog-fullwidth.html">بلاگ تمام عرض</a></li>
+                                                            <li><a href="blog-details.html">جزئیات بلاگ</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">ستون سه</a>
+                                                        <ul>
+                                                            <li><a href="shop.html">فروشگاه با نوار کناری راست</a></li>
+                                                            <li><a href="shop-left.html">فروشگاه با نوار کناری چپ</a></li>
+                                                            <li><a href="shop-fullwidth.html">فروشگاه تمام عرض</a></li>
+                                                            <li><a href="wishlist.html">علاقه‌مندی‌ها</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="blog.html">بلاگ</a></li>
+                                            <li><a href="shop.html">فروشگاه</a></li>
+                                            <li><a href="about.html">درباره ما</a></li>
+                                            <li><a href="contact.html">تماس با ما</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <!-- Mobile Menu Area End -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- main-menu-area end -->
+        </header>
+        @RenderBody()
+        <footer>
+            <!-- about-corporate-area start -->
+            <div class="about-corporate-area bg-blue">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-0-sub">
+                            <!-- single-corporate start -->
+                            <div class="single-corporate">
+                                <div class="corporate-icon">
+                                    <i class="ion-ios-timer-outline"></i>
+                                </div>
+                                <div class="corporate-text-des">
+                                    <h3>شنبه - پنجشنبه / 8 صبح - 6 عصر</h3>
+                                    <p>ساعات کاری</p>
+                                </div>
+                            </div>
+                            <!-- single-corporate end -->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-0-sub">
+                            <!-- single-corporate start -->
+                            <div class="single-corporate">
+                                <div class="corporate-icon">
+                                    <i class="ion-ios-telephone"></i>
+                                </div>
+                                <div class="corporate-text-des">
+                                    <h3><span class="ltr_text">+88 12 345 6789</span></h3>
+                                    <p>پشتیبانی رایگان!</p>
+                                </div>
+                            </div>
+                            <!-- single-corporate end -->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-0-sub">
+                            <!-- single-corporate start -->
+                            <div class="single-corporate">
+                                <div class="corporate-icon">
+                                    <i class="ion-email"></i>
+                                </div>
+                                <div class="corporate-text-des">
+                                    <h3>Support@gmail.com</h3>
+                                    <p>پشتیبانی سفارشات!</p>
+                                </div>
+                            </div>
+                            <!-- single-corporate end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- jquery -->
+    <script src="~/layout/js/vendor/jquery-1.12.4.min.js"></script>
+
+    <!-- all plugins JS hear -->
+    <script src="~/layout/js/popper.min.js"></script>
+    <script src="~/layout/js/bootstrap.min.js"></script>
+    <script src="~/layout/js/owl.carousel.min.js"></script>
+    <script src="~/layout/js/jquery.mainmenu.js"></script>
+    <script src="~/layout/js/ajax-email.js"></script>
+    <script src="~/layout/js/plugins.js"></script>
+    <!-- main JS -->
+    <script src="~/layout/js/main.js"></script>
+</body>
+<script>
+    $(function () {
+        let userName = $('#identityName').val();
+        $.post('home/getCartNumber', { usersName: userName }, function (value) {
+            $('#CartNumber').text(value);
+        })
+        let th = `<thead>
+                <tr>
+                    <td>عکس</td>
+                    <td>نام</td>
+                    <td>رنگ</td>
+                    <td>تعداد</td>
+                    <td>قیمت</td>
+                </tr>
+        </thead>`
+        $('#cartTable').append(th);
+    })
+</script>
+</html>

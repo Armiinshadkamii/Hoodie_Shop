@@ -1,0 +1,136 @@
+﻿@using First_Website.Areas.Identity.Data;
+@{
+    ViewData["Title"] = "Index";
+}
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<a asp-action="index" asp-controller="Admin">go to admins page</a>
+<style>
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+    }
+
+    .price {
+        color: grey;
+        font-size: 22px;
+    }
+
+    .card button {
+        outline: 0;
+        border: none;
+        color: white;
+        background-color: #000;
+        width: 100%;
+        cursor: pointer;
+        padding: 12px;
+        font-size: 18px;
+    }
+
+        .card button:hover {
+            opacity: 0.7;
+        }
+
+    #card:hover {
+        top: -10px;
+    }
+
+    .column {
+        float: left;
+        width: 33.33%;
+    }
+
+    .card-img {
+        float: left;
+    }
+</style>
+<div class="product-area box-module">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="secton-title">
+                <h2 class="text-center">محصولات </h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    @foreach (var item in ViewData["Hoodies"] as List<Hoodie>)
+    {
+        <div class="column">
+            <div id="card" class="card">
+                <img id="img" src="@($"data:image/jpeg;base64,{Convert.ToBase64String(item.titleImage)}")" alt="عکس کالا">
+                <div class="card-body">
+                 
+                        @foreach (var img in item.hoodieImgs.ToList())
+                        {
+
+                            if (img != null)
+                            {
+                            <div class="column">
+                                <a asp-action="showImg" asp-controller="Home" asp-route-id="@img.Id">
+                                  <img id="img1"  width="80" height="80" src="@($"data:image/jpeg;base64,{Convert.ToBase64String(img.thumbNail)}")" />
+                                </a>
+                                </div>
+                                continue;
+                            }
+                            if (img != null)
+                            {
+                            <div class="column">
+                                <a asp-action="showImg" asp-controller="Home" asp-route-id="@img.Id">
+                                <img id="img2"  width="80" height="80" src="@($"data:image/jpeg;base64,{Convert.ToBase64String(img.thumbNail)}")" />
+                                </a>
+                                </div>
+                                continue;
+                            }
+                            if (img != null)
+                            {
+                            <div class="column">
+                                <a asp-action="showImg" asp-controller="Home" asp-route-id="@img.Id">
+                                <img id="img3"  width="80" height="80" src="@($"data:image/jpeg;base64,{Convert.ToBase64String(img.thumbNail)}")" />
+                                </a>
+                                </div>
+                                continue;
+                            }
+                        }
+                   
+                </div>
+                <h1 id="h1Name">@item.name</h1>
+                <p id="price" class="price">@item.price</p>
+                <p id="color" class="h4">@($"رنگ: {item.color}")</p>
+                <p>
+                    @inject UserManager<ApplicationUser> userManager
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a asp-action="AddToShoppingCart" asp-controller="Home" asp-route-id="@item.id" asp-route-name="@User.Identity.Name">
+
+                            <button id="btnAdd">اضافه کردن به سبد خرید</button>
+                        </a>
+                    }
+                    else
+                    {
+                        <a asp-action="Login" asp-controller="Account">
+                            <button id="diabledBtn">لطفا وارد حساب خود شوید</button>
+                        </a>
+                    }
+                </p>
+            </div>
+        </div>
+    }
+</div>
+<script>
+    $(function () {
+       
+    })
+</script>
+<script>
+    let titleImg = document.getElementById('img');
+    function changeImg(img) {
+        titleImg.src = img.src;
+    }
+</script>
+
+
